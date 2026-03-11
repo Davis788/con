@@ -1,4 +1,3 @@
-vless://4c9b944f-6637-4cc2-a71c-5213806084ae@45.144.31.197:8442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=ios&pbk=MLyjO08TAeaR5ROq_kc5htjclypGwAfwfIgAg_GMvUA&sid=a4c8f2d6e9b1&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[vless]
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn2.cloud-vk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=yrYgien87jB4aWqIArGlf6qlNZ_gA8Qxbaq9LBmezEM&sid=9571e13d0d1c&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20[vless]
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&packetEncoding=xudp#%F0%9F%A5%8E59@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMFFyMG85Wmo1eHhRZXp0ZHIxMW1WYV9yQVpVclUxRQ==@ruloone.cc:5364#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20[shadowsocks]
@@ -12,4 +11,5 @@ trojan://humanity@104.18.32.47:443#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1@EuSer
 vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@ya.asbndx.com:2777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f&packetEncoding=xudp#[OpenRay]%20Dynamic-10727
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn7.cloud-vk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=xbS4eVahN5UjRzCJSx9xWZD3J5cQRK1_33lzC9doS3I&sid=f014d735d3&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20UK%20[vless]
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn3.cloud-vk.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=42f1Pxqxo5VTWZFuyf7oC2OFKbYKH96z7lmDqzYU5Sw&sid=a04f384f0af69b46&packetEncoding=xudp#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20[vless]
+
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@brejopuk.cc:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brejopuk.work&fp=chrome&pbk=1f_ubV4RJWjIQBWZaR4NDpfvrO9W0R0fe6LiBh9R9GA&sid=e62f3ce510305ea6&packetEncoding=xudp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20[vless]
