@@ -1,2 +1,5 @@
-vless://10eedec7-3f82-4e5a-f567-96d3c04f1d72@144.31.12.48:443?type=tcp&security=none#Vless|mbq8.love@xray.com
-trojan://Mypass@144.31.12.48:8443?type=tcp&security=none#Trojan|DCJR.love@xray.com
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@185.130.113.39:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=i.oneme.ru&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@87.239.111.174:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=i.oneme.ru&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@95.163.208.136:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=i.oneme.ru&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
+vless://78584382-caf0-4f8a-b1a9-a66ef6f852e6@213.171.26.10:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=firefox&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://78584382-caf0-4f8a-b1a9-a66ef6f852e6@213.171.26.10:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=firefox&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
